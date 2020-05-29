@@ -1,0 +1,3 @@
+# ignore the jupyter notebook checkpoints
+# wildcard match for all files & directories
+*checkpoints
