@@ -12,4 +12,4 @@ However, as the project started, it took on new form. The data collected from Tw
 
 In the end, this project was turned in as submission for the CC Hub Data For Governance Challenge with my team, Ocean's Five. Unfortunately, we did not get to participate in the Challenge but putting together this project and the rest of our application was a learning experience. 
 
-The notebook is a bit rough, as things can get in the heat of the moment. Good thing I am done with my service year now. I'll find time to clean it up slowly over the next few weeks. 
+The notebooks are a bit rough, as things can get in the heat of the moment. Good thing I am done with my service year now. I'll find time to clean it up slowly over the next few weeks. 
